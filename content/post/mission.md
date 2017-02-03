@@ -11,7 +11,7 @@ title = "Overview"
 - [Mission Statement](#mission-statement)
 - [Principles](#principles)
 - [Get Involved](#get-involved)
-- [Areas of Focus](#main-areas-of-focus)
+- [Areas of Focus](#areas-of-focus)
 - [Education](#furthering-education-of-hardening-containers)
 - [FAQ](#faq)
 
@@ -61,9 +61,17 @@ We welcome you! [Join the mailing list](https://groups.google.com/a/containerhar
 and introduce yourself. We need kernel developers, testers, documentation
 writers and anyone with a passion for making the impossible possible.
 
-# Main Areas of Focus
+# Areas of Focus
 
-- Preventing Privilege Escalations in User Namespaces
+**Preventing Privilege Escalations in User Namespaces**
+
+We should split up the various parts of the kernel and closely audit the
+interactions with user namespaces. The fundamental problem seems to be that not
+many people have inspected user namespaces and the various interactions
+with other parts of the kernel.
+
+The attack surface is very large, we should split up the work and knowledge
+share our findings. We can then use this to innovate on well-informed solutions.
 
 # Furthering Education of Hardening Containers
 
