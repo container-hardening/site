@@ -65,6 +65,8 @@ writers and anyone with a passion for making the impossible possible.
 
 **Preventing Privilege Escalations in User Namespaces**
 
+First things first, this is the most obvious area we should focus on.
+
 We should split up the various parts of the kernel and closely audit the
 interactions with user namespaces. The fundamental problem seems to be that not
 many people have inspected user namespaces and the various interactions
