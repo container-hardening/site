@@ -6,7 +6,7 @@ title = "Overview"
 
 +++
 
-Table of Contents:
+**Table of Contents:**
 
 - [Mission Statement](#mission-statement)
 - [Principles](#principles)
