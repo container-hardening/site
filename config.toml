@@ -1,0 +1,8 @@
+baseurl = "https://containerhardening.org/"
+languageCode = "en-us"
+title = "Linux Container Hardening"
+theme = "hyde"
+canonifyUrls = true
+
+[params]
+	description = "A project focused on future proofing the Linux kernel primitives that are used to make containers."
