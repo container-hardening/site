@@ -1,8 +1,8 @@
 +++
 Categories = ["mission"]
-Description = "Linux Container Hardening"
+Description = "Mission Statement"
 Tags = ["development", "linux", "containers"]
-title = "Overview"
+title = "Linux Container Hardening"
 
 +++
 
