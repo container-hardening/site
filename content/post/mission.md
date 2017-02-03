@@ -11,7 +11,7 @@ Table of Contents:
 - [Mission Statement](#mission-statement)
 - [Principles](#principles)
 - [Get Involved](#get-involved)
-- [Areas of Focus](#areas-of-focus)
+- [Areas of Focus](#main-areas-of-focus)
 - [Education](#furthering-education-of-hardening-containers)
 - [FAQ](#faq)
 
