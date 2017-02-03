@@ -61,6 +61,10 @@ We welcome you! [Join the mailing list](https://groups.google.com/a/containerhar
 and introduce yourself. We need kernel developers, testers, documentation
 writers and anyone with a passion for making the impossible possible.
 
+Be sure to checkout [Areas of Focus](#areas-of-focus) below to see if you
+have anything specific you would like to help with. If not, don't worry we
+can find something that piques your interest together.
+
 # Areas of Focus
 
 **Preventing Privilege Escalations in User Namespaces**
