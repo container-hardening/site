@@ -57,9 +57,8 @@ A short list of things to keep in mind when designing self-protection features:
 
 # Get Involved
 
-We welcome you! [Join the mailing list](https://groups.google.com/a/containerhardening.org/forum/#!forum/dev)
-and introduce yourself. We need kernel developers, testers, documentation
-writers and anyone with a passion for making the impossible possible.
+We welcome you! Check out instructions for getting involved with
+the [Kernel Self Protection Project](https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project#Get_Involved).
 
 Be sure to checkout [Areas of Focus](#areas-of-focus) below to see if you
 have anything specific you would like to help with. If not, don't worry we
