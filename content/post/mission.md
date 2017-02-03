@@ -70,7 +70,7 @@ interactions with user namespaces. The fundamental problem seems to be that not
 many people have inspected user namespaces and the various interactions
 with other parts of the kernel.
 
-The attack surface is very large, we should split up the work and knowledge
+The attack surface is very large, let's divide up the various subsystems and knowledge
 share our findings. We can then use this to innovate on well-informed solutions.
 
 # Furthering Education of Hardening Containers
