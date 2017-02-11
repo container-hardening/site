@@ -6,6 +6,8 @@ title = "Linux Container Hardening"
 
 +++
 
+![container-hardening](/img/logo.jpg)
+
 **Table of Contents:**
 
 - [Mission Statement](#mission-statement)
