@@ -1,10 +1,7 @@
 +++
-Categories = ["mission"]
-Description = "Mission Statement"
-Tags = ["development", "linux", "containers"]
+description = "Mission Statement"
 title = "Mission"
 date = "2015-01-01"
-
 +++
 
 **Table of Contents:**
