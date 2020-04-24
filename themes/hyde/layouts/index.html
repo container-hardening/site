@@ -6,7 +6,7 @@
     <div class="content container">
 <div class="posts">
 
-      {{ range .Pages.ByDate.Reverse }}
+      {{ range .Pages }}
     {{ if ne .Title "Posts" }}
     {{ if ne .Title "Linux Container Hardening" }}
   <div class="post">
