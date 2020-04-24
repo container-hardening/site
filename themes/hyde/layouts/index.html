@@ -7,7 +7,8 @@
 <div class="posts">
 
       {{ range .Pages }}
-    
+    {{ if ne .Title "Posts" }}	  
+    {{ if ne .Title "Linux Container Hardening" }}
   <div class="post">
     <p><img src="https://containerhardening.org/img/logo.jpg" alt="container-hardening"></p>
     <h1 class="post-title">
@@ -19,6 +20,8 @@
     {{ .Content }}
   </div>
   {{ end }}
+    {{ end }}
+    {{ end }}
 </div>
 </div>
 
