@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Linux Container Hardening"
 theme = "hyde"
 canonifyUrls = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 	description = "A project focused on future proofing the Linux kernel primitives that are used to make containers."
