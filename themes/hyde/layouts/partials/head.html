@@ -30,5 +30,5 @@
   <link rel="shortcut icon" href="/favicon.png">
 
   <!-- RSS -->
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ if .RSSLink }}<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />{{ end }}
 </head>
